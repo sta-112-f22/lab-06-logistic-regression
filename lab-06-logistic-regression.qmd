@@ -1,0 +1,29 @@
+---
+title: "Lab 06 - logistic Regression"
+author: "Lucy D'Agostino McGowan"
+date: ""
+format: 
+  html:
+    self-contained: true
+editor: visual
+---
+
+### Load packages
+
+```{r}
+#| label: load-packages
+#| message: false
+#| warning: false
+library(tidyverse) 
+library(Stat2Data)
+```
+
+### Load Data
+
+```{r}
+#| label: load-data
+
+data("Leukemia")
+```
+
+### 
